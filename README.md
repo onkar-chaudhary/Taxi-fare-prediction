@@ -12,9 +12,9 @@ Packages: pandas, numpy, sklearn, matplotlib, seaborn
 
 **Stage 1**
 - Project proposal is made for the company
-- a PACE strategy model has been developed
+- A PACE strategy model has been developed
 
 **Stage 2**
--Basic data preparation is performed to describe the data and pre data cleaning stage is performed
--PACE strategy is updated
--Executive summary prepared to keep stakeholders upto date and help fellow co-workers (hypothetical) follow along easily
+- Basic data preparation is performed to describe the data and pre data cleaning stage is performed
+- PACE strategy is updated
+- Executive summary prepared to keep stakeholders upto date and help fellow co-workers (hypothetical) follow along easily
