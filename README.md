@@ -7,14 +7,14 @@ For a hypothtical company named Automatidata, we are tasked with creating projec
 We analyze a hypothetical dataset provided within the course, analyze it, prepare it , perform EDA and proceed with model building and testing.
 
 **RESOURCES**
-Python Version: 3.7
-Packages: pandas, numpy, sklearn, matplotlib, seaborn
+- Python Version: 3.7
+- Packages: pandas, numpy, sklearn, matplotlib, seaborn
 
-**Stage 1**
+**Stage 1 (Project proposal)**
 - Project proposal is made for the company
 - A PACE strategy model has been developed
 
-**Stage 2**
+**Stage 2 (Data preperation/cleaning)**
 - Basic data preparation is performed to describe the data and pre data cleaning stage is performed
 - PACE strategy is updated
 - Executive summary prepared to keep stakeholders upto date and help fellow co-workers (hypothetical) follow along easily
