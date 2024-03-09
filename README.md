@@ -18,3 +18,12 @@ We analyze a hypothetical dataset provided within the course, analyze it, prepar
 - Basic data preparation is performed to describe the data and pre data cleaning stage is performed
 - PACE strategy is updated
 - Executive summary prepared to keep stakeholders upto date and help fellow co-workers (hypothetical) follow along easily
+
+**Stage 3 (EDA)**
+- I perform the practices of exploratory data analysis (EDA):   - Discovery
+                                                                - Structuring
+                                                                - Cleaning
+                                                                - Joining
+                                                                - Validating
+                                                                - Presenting
+- Use of Tableau platform for data visualization/presentation
