@@ -27,3 +27,7 @@ We analyze a hypothetical dataset provided within the course, analyze it, prepar
                                                                 - Validating
                                                                 - Presenting
 - Use of Tableau platform for data visualization/presentation
+
+**Stage 4 (Hypothesis testing)**
+- Analyzed and verified the results from an A/B test conducted by the company (Automatidata).
+- Conducted a 2-sample t-test to verify if there is a statistical significance between the type of payment (eg.: credit card, cash, etc.) and fare amount.
