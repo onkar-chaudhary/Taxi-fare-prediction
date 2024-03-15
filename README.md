@@ -3,7 +3,7 @@ Predicting Taxi fares before a customer books a ride for NewYorkTLC in a hypothe
 (Google Advanced data Analytics Certificate Course)
 
 **SCENARIO**
-For a hypothtical company named Automatidata, we are tasked with creating project proposal, PACE strategy documents, data preparation, data cleaning, EDA, model building and evaluation to create a predictive model for a company named NewYork TLC which predicts the fares of their taxi before a customer books one.
+For a hypothetical company named Automatidata, we are tasked with creating project proposal, PACE strategy documents, data preparation, data cleaning, EDA, model building and evaluation to create a predictive model for a company named NewYork TLC which predicts the fares of their taxi before a customer books one.
 We analyze a hypothetical dataset provided within the course, analyze it, prepare it , perform EDA and proceed with model building and testing.
 
 **RESOURCES**
