@@ -31,3 +31,8 @@ We analyze a hypothetical dataset provided within the course, analyze it, prepar
 **Stage 4 (Hypothesis testing)**
 - Analyzed and verified the results from an A/B test conducted by the company (Automatidata).
 - Conducted a 2-sample t-test to verify if there is a statistical significance between the type of payment (eg.: credit card, cash, etc.) and fare amount.
+
+**Stage 5 (Regression Analysis)**
+- Identified the suitable variables for model develpoment.
+- Selected a Multiple regression model to meet the skateholder needs.
+- Implemented the regression model and provided skateholders with valuable insights using various interpretation means.
