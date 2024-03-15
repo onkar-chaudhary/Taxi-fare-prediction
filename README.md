@@ -36,3 +36,8 @@ We analyze a hypothetical dataset provided within the course, analyze it, prepar
 - Identified the suitable variables for model develpoment.
 - Selected a Multiple regression model to meet the skateholder needs.
 - Implemented the regression model and provided skateholders with valuable insights using various interpretation means.
+
+**Stage 6 (Machine Learning model)**
+- New York TLC wanted a ML model to determine whether or not the rider will  be a genrous tipper or not.
+- Used the ensembling learning techniques, bagging and boosting, to create a Random Forset model and a XGBoost model.
+- Compared their F1 scores and other relevant metrics and made an executive summary for the stakeholders. 
